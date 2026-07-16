@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mvn -Dtest=UserManagementTest test)"
+    ]
+  }
+}
